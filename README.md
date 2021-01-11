@@ -13,7 +13,7 @@ If your system does not have the `Niagara Solid` font you need to install it (**
 To launch the application, run the **Phone.exe** file. To turn on the phone, right-click on the red phone button and wait for the OS to load. To turn off the phone - press the button again.
 
 ## Compatibility
-Windows XP and higher
+Windows XP, 7, Vista, 8, 10
 
 ## Demo
 ###### Overview
