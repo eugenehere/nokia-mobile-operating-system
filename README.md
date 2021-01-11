@@ -1,5 +1,5 @@
-# Nokia OS simulator
-Nokia Operating System Simulator written in Pascal.
+# Nokia 6300 Simulator
+Nokia 6300 operating system simulator written in Pascal.
 
 ## Key features
  - Display settings: icons themes, backgrounds, fonts, etc.
