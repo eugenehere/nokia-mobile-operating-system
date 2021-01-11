@@ -17,8 +17,9 @@ Windows XP and higher
 
 ## Demo
 ###### Overview
-![Overview](https://i.postimg.cc/3RBcsmj3/overview.gif "Overview")
+![Overview](etc/overview.gif "Overview")
 
 ###### Paint Utility
-![Paint Utility](https://i.postimg.cc/pdQGjz6K/paint.gif "Paint Utility")
+![Paint Utility](etc/paint.gif "Paint Utility")
+
 [Full video](https://www.youtube.com/watch?v=N2grwPs3fl8)
